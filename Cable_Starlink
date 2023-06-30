@@ -1,4 +1,5 @@
 Item              Comando
+Iniciar            #EXTINF: -1
 Canal             tvg-chno="X"
 Pais              tvg-country="X"
 Logo              tvg-logo="https://www.ejemplo.com/Imagen.jpg"
