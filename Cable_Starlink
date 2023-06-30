@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN PORTUGAL FHD" tvg-logo="" group-title="PORTUGAL",PT: CNN PORTUGAL FHD
-http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106543
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN Portugal " tvg-logo="" group-title="PORTUGAL",PT: CNN Portugal 
-http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106542
-#EXTINF:-1 tvg-id="" tvg-name="PT: Dizi Channel " tvg-logo="" group-title="PORTUGAL",PT: Dizi Channel 
-http://spain1.offshorerev.cc:80/SPIDER_Rlx9l6/uVN3WARhRs/106541
+Item              Comando
+Canal             tvg-chno="X"
+Pais              tvg-country="X"
+Logo              tvg-logo="https://www.ejemplo.com/Imagen.jpg"
+Idioma            tvg-language="X"
+Grupo/Categoria   group-title="X"
+Para marcar el nombre que el canal usa para obtener información de programación se utiliza tvg-id="X.y" y cambias X por el nombre del canal y Y por el país al que pertenece.
